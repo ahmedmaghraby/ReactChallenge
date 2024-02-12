@@ -5,7 +5,7 @@ import ToggleButton from '@/components/atom/ToggleButton'
 import usePricePrefix from '@/hooks/usePricePerfix'
 import Button from '@/components/atom/button'
 import BarChart from '@/components/molecule/BarChart'
-import PieChart from '@/components/molecule/pieChart'
+import PieChart from '@/components/molecule/PieChart'
 
 export default function AutoInvest() {
   const { t } = useTranslation()
