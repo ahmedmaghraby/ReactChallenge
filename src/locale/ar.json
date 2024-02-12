@@ -1,0 +1,36 @@
+{
+  "translation": {
+    "headerTitle": "My Header Titldddddddde",
+    "lang": "English",
+    "more": "المزيد",
+    "walletBalance": "رصيد المحفظة",
+    "Deposit": "ايداع",
+    "Withdraw": "سحب",
+    "depositWithdrawInfo1": "لسحب اكثر من ",
+    "depositWithdrawInfo2": "تحتاج لتحقيق حساب بنكي",
+    "WhyShouldYouTrustIt": "لماذا تثق به ؟",
+    "WhyShouldYouTrustItDesc": "Because of this and that. Anyway investing is very good",
+    "What is the Auto-Investment?": "ما هو الاستثمار التلقائي؟",
+    "What risks are related to investments?": "ما هي المخاطر المتعلقة بالاستثمارات؟",
+    "Why should I trust this tool?": "لماذا يجب أن أثق في هذه الأداة؟",
+    "You Might Want to Know": "قد ترغب في معرفة",
+    "Auto-Investment": "الاستثمار ألالي",
+    "Active": "نشط",
+    "Inactive": "غير نشط",
+    "status": "الحالة",
+    "Max. Investment": "الاستثمار الأعلى",
+    "Loans Funded": "القروض المنفذة",
+    "note": "التحليل بدئاً في 20 مارس 2024",
+    "Stop": "ايقاف",
+    "Change setting": "تغيير الإعدادات",
+    "Invested": "المستثمرين",
+    "Conservative": "محافظ",
+    "Interest Rate": "سعر الفائدة",
+    "topNav": {
+      "overview": "نظرة عامة",
+      "Invest": "أستثمار",
+      "AutoInvest": "استثمار إلي",
+      "MyPortfolio": "ملفي"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "translation": {
+    "headerTitle": "My Header Title",
+    "lang": "عربي",
+    "more": "More",
+    "walletBalance": "Wallet Balance",
+    "Deposit": "Deposit",
+    "Withdraw": "Withdraw",
+    "depositWithdrawInfo1": "To withdraw more than",
+    "depositWithdrawInfo2": "you need to verify your banking account",
+    "WhyShouldYouTrustIt": "Why should you trust it ?",
+    "WhyShouldYouTrustItDesc": "Because of this and that. Anyway investing is very good.",
+    "What is the Auto-Investment?": "What is the Auto-Investment?",
+    "What risks are related to investments?": "What risks are related to investments?",
+    "Why should I trust this tool?": "Why should I trust this tool?",
+    "You Might Want to Know": "You Might Want to Know",
+    "Auto-Investment": "Auto Investment",
+    "Active": "Active",
+    "Inactive": "Inactive",
+    "status": "Status",
+    "Max. Investment": "Max. Investment",
+    "Loans Funded": "Loans Funded",
+    "note": "Strategy started at 20th March 2024",
+    "Stop": "Stop",
+    "Change setting": "Change setting",
+    "Invested": "Invested",
+    "Conservative": "Conservative",
+    "Interest Rate": "Interest Rate",
+    "topNav": {
+      "overview": "overview",
+      "Invest": "Invest",
+      "AutoInvest": "Auto-Invest",
+      "MyPortfolio": "My Portfolio"
+    }
+  }
+}
